@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdamandEva/AdamandEva.iml" filepath="$PROJECT_DIR$/AdamandEva/AdamandEva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeThiMau/Circle/Circle.iml" filepath="$PROJECT_DIR$/DeThiMau/Circle/Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeThiMau/DeThiMau.iml" filepath="$PROJECT_DIR$/DeThiMau/DeThiMau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OntapOOP.iml" filepath="$PROJECT_DIR$/.idea/OntapOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phuongtrinhbac2/phuongtrinhbac2.iml" filepath="$PROJECT_DIR$/phuongtrinhbac2/phuongtrinhbac2.iml" />
+    </modules>
+  </component>
+</project>
